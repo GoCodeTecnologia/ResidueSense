@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>ResidueSense - Gerenciador de Resíduos</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center">ResidueSense - Gerenciador de Resíduos</h1>
+        <form action="/upload" method="post" enctype="multipart/form-data" class="mt-4">
+            <div class="form-group">
+                <input type="file" name="file" accept=".csv" class="form-control-file">
+            </div>
+            <button type="submit" class="btn btn-success">Importar Arquivo CSV</button>
+        </form>
+        {% if results %}
+            <div class="mt-5">
+                <h2 class="text-center">Resultados</h2>
+                <div class="row mt-4">
+                    <div class="col-md-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Percentual de Resíduos Recicláveis</h5>
+                                <p class="card-text">{{ results.percentual_reciclaveis }}%</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <h3 class="mt-5">Tabela de Resultados (Primeiras 10 Linhas)</h3>
+                <table class="table table-striped mt-3">
+                    <thead>
+                        <tr>
+                            <th>Localização</th>
+                            <th>Resíduos Per Capita</th>
+                            <th>Caminhões Per Capita</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for row in results.table %}
+                            <tr>
+                                <td>{{ row.Localização }}</td>
+                                <td>{{ row['Resíduos Per Capita'] }}</td>
+                                <td>{{ row['Caminhões Per Capita'] }}</td>
+                            </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+                <div class="mt-5">
+                    <h3>Gráficos</h3>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <h4>Volume de Resíduos por Tipo</h4>
+                            <img src="data:image/png;base64,{{ results.bar_graph }}" class="img-fluid" alt="Gráfico de Barras">
+                        </div>
+                        <div class="col-md-6">
+                            <h4>Percentual de Resíduos Recicláveis</h4>
+                            <img src="data:image/png;base64,{{ results.pie_chart }}" class="img-fluid" alt="Gráfico de Pizza">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        {% endif %}
+    </div>
+    <!-- Bootstrap JS and dependencies -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</body>
+</html>

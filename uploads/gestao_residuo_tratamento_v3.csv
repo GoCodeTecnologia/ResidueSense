@@ -1,0 +1,246 @@
+Localização,Dia,Tipo do resíduo,Volume(kg),Reciclável,Populacao,Rotas,Quantidade de caminhões por dia,Distância(Km),Alocação de caminhões(%),Eficiência do Combustível(Km/L),Consumo combustível(L)
+Condominio A,Quinta-Feira,Organico,42,Não,550,H177,1.0,11.0,Média,6,Média
+Condominio B,Quinta-Feira,Plastico,45,Sim,1200,H178,2.0,12.0,Alta,5,Média
+Condominio C,Quinta-Feira,Papel,25,Sim,850,H179,1.0,9.0,Baixa,7,Baixa
+Condominio A,Quinta-Feira,Vidro,25,Sim,550,H177,1.0,11.0,Baixa,5,Média
+Condominio B,Quinta-Feira,Metal,45,Sim,1200,H178,2.0,12.0,Muito alta,6,Média
+Condominio C,Quinta-Feira,Outros,39,Não,850,H179,1.0,9.0,Baixa,6,Baixa
+Condominio A,Quinta-Feira,Organico,43,Não,550,H177,1.0,11.0,Média,6,Média
+Condominio B,Quinta-Feira,Plastico,38,Sim,1200,H178,1.0,6.0,Baixa,7,Muito baixa
+Condominio C,Quinta-Feira,Papel,22,Sim,850,H179,1.0,9.0,Baixa,5,Média
+Condominio A,Quinta-Feira,Vidro,42,Sim,550,H177,1.0,11.0,Média,5,Média
+Condominio B,Quinta-Feira,Metal,27,Sim,1200,H178,1.0,6.0,Baixa,6,Baixa
+Condominio C,Quinta-Feira,Outros,56,Não,850,H179,2.0,18.0,Alta,7,Média
+Condominio A,Quinta-Feira,Organico,47,Não,550,H177,2.0,22.0,Alta,8,Alta
+Condominio B,Quinta-Feira,Plastico,48,Sim,1200,H178,2.0,12.0,Média,7,Baixa
+Condominio C,Segunda-feira,Papel,21,Sim,850,H179,1.0,9.0,Baixa,5,Média
+Condominio A,Segunda-feira,Vidro,33,Sim,550,H177,1.0,11.0,Baixa,5,Média
+Condominio B,Segunda-feira,Metal,43,Sim,1200,H178,1.0,6.0,Média,6,Baixa
+Condominio C,Segunda-feira,Outros,38,Não,850,H179,1.0,9.0,Baixa,8,Baixa
+Condominio A,Segunda-feira,Organico,28,Não,550,H177,1.0,11.0,Baixa,5,Média
+Condominio B,Segunda-feira,Plastico,20,Sim,1200,H178,1.0,6.0,Baixa,6,Baixa
+Condominio C,Segunda-feira,Papel,53,Sim,850,H179,2.0,18.0,Alta,6,Alta
+Condominio A,Segunda-feira,Vidro,41,Sim,550,H177,1.0,11.0,Média,8,Baixa
+Condominio B,Segunda-feira,Metal,54,Sim,1200,H178,2.0,12.0,Muito alta,5,Média
+Condominio C,Segunda-feira,Outros,31,Não,850,H179,1.0,9.0,Baixa,5,Média
+Condominio A,Segunda-feira,Organico,52,Não,550,H177,2.0,22.0,Muito alta,7,Alta
+Condominio B,Segunda-feira,Plastico,33,Sim,1200,H178,1.0,6.0,Baixa,8,Muito baixa
+Condominio C,Segunda-feira,Papel,20,Sim,850,H179,1.0,9.0,Baixa,5,Média
+Condominio A,Segunda-feira,Vidro,59,Sim,550,H177,2.0,22.0,Muito alta,6,Muito alta
+Condominio B,Segunda-feira,Metal,20,Sim,1200,H178,1.0,6.0,Baixa,8,Muito baixa
+Condominio C,Segunda-feira,Outros,25,Não,850,H179,1.0,9.0,Baixa,5,Média
+Condominio A,Quinta-Feira,Organico,55,Não,550,H177,2.0,22.0,Muito alta,7,Alta
+Condominio B,Segunda-feira,Plastico,56,Sim,1200,H178,2.0,12.0,Muito alta,6,Média
+Condominio C,Quarta-feira,Papel,50,Sim,850,H179,2.0,18.0,Alta,7,Média
+Condominio A,Quarta-feira,Vidro,22,Sim,550,H177,1.0,11.0,Baixa,5,Média
+Condominio B,Quarta-feira,Metal,57,Sim,1200,H178,2.0,12.0,Muito alta,6,Média
+Condominio C,Terça-feira,Outros,52,Não,850,H179,2.0,18.0,Alta,7,Média
+Condominio A,Terça-feira,Organico,35,Não,550,H177,1.0,11.0,Média,6,Média
+Condominio B,Terça-feira,Plastico,45,Sim,1200,H178,2.0,12.0,Alta,5,Média
+Condominio C,Terça-feira,Papel,32,Sim,850,H179,1.0,9.0,Baixa,7,Baixa
+Condominio A,Terça-feira,Vidro,56,Sim,550,H177,2.0,22.0,Muito alta,6,Muito alta
+Condominio B,Terça-feira,Metal,21,Sim,1200,H178,1.0,6.0,Baixa,6,Baixa
+Condominio C,Terça-feira,Outros,46,Não,850,H179,2.0,18.0,Média,8,Média
+Condominio A,Terça-feira,Organico,30,Não,550,H177,1.0,11.0,Baixa,7,Baixa
+Condominio B,Terça-feira,Plastico,50,Sim,1200,H178,2.0,12.0,Muito alta,7,Baixa
+Condominio C,Terça-feira,Papel,41,Sim,850,H179,1.0,9.0,Baixa,8,Baixa
+Condominio A,Segunda-feira,Vidro,57,Sim,550,H177,2.0,22.0,Muito alta,7,Alta
+Condominio B,Segunda-feira,Metal,29,Sim,1200,H178,1.0,6.0,Baixa,7,Muito baixa
+Condominio C,Quarta-feira,Outros,57,Não,850,H179,2.0,18.0,Alta,8,Média
+Condominio A,Quarta-feira,Organico,40,Não,550,H177,1.0,11.0,Média,8,Baixa
+Condominio B,Quarta-feira,Plastico,38,Sim,1200,H178,1.0,6.0,Baixa,8,Muito baixa
+Condominio C,Quarta-feira,Papel,57,Sim,850,H179,2.0,18.0,Muito alta,6,Alta
+Condominio A,Quarta-feira,Vidro,36,Sim,550,H177,1.0,11.0,Média,5,Média
+Condominio B,Quarta-feira,Metal,25,Sim,1200,H178,1.0,6.0,Baixa,8,Muito baixa
+Condominio C,Quarta-feira,Outros,55,Não,850,H179,2.0,18.0,Alta,5,Muito alta
+Condominio A,Quarta-feira,Organico,35,Não,550,H177,1.0,11.0,Média,5,Média
+Condominio B,Quarta-feira,Plastico,38,Sim,1200,H178,1.0,6.0,Baixa,5,Baixa
+Condominio C,Quarta-feira,Papel,27,Sim,850,H179,1.0,9.0,Baixa,5,Média
+Condominio A,Quarta-feira,Vidro,59,Sim,550,H177,2.0,22.0,Muito alta,7,Alta
+Condominio B,Quarta-feira,Metal,26,Sim,1200,H178,1.0,6.0,Baixa,6,Baixa
+Condominio C,Quarta-feira,Outros,48,Não,850,H179,2.0,18.0,Média,8,Média
+Condominio A,Quarta-feira,Organico,28,Não,550,H177,1.0,11.0,Baixa,5,Média
+Condominio B,Quarta-feira,Plastico,60,Sim,1200,H178,2.0,12.0,Alta,7,Baixa
+Condominio C,Quarta-feira,Papel,21,Sim,850,H179,1.0,9.0,Baixa,8,Baixa
+Condominio A,Quarta-feira,Vidro,42,Sim,550,H177,1.0,11.0,Média,7,Baixa
+Condominio B,Quarta-feira,Metal,29,Sim,1200,H178,1.0,6.0,Baixa,6,Baixa
+Condominio C,Quarta-feira,Outros,38,Não,850,H179,1.0,9.0,Baixa,8,Baixa
+Condominio A,Quarta-feira,Organico,25,Não,550,H177,1.0,11.0,Baixa,8,Baixa
+Condominio B,Quarta-feira,Plastico,47,Sim,1200,H178,2.0,12.0,Alta,8,Baixa
+Condominio C,Quarta-feira,Papel,48,Sim,850,H179,2.0,18.0,Alta,7,Média
+Condominio A,Quarta-feira,Vidro,53,Sim,550,H177,2.0,22.0,Muito alta,5,
+Condominio B,Quarta-feira,Metal,58,Sim,1200,H178,2.0,12.0,Muito alta,6,Média
+Condominio C,Quarta-feira,Outros,31,Não,850,H179,1.0,9.0,Baixa,5,Média
+Condominio A,Quarta-feira,Organico,43,Não,550,H177,1.0,11.0,Média,5,Média
+Condominio B,Quarta-feira,Plastico,46,Sim,1200,H178,2.0,12.0,Média,7,Baixa
+Condominio C,Quarta-feira,Papel,33,Sim,850,H179,1.0,9.0,Baixa,5,Média
+Condominio A,Quinta-Feira,Vidro,23,Sim,550,H177,1.0,11.0,Baixa,5,Média
+Condominio B,Quarta-feira,Metal,27,Sim,1200,H178,1.0,6.0,Baixa,8,Muito baixa
+Condominio C,Quinta-Feira,Outros,48,Não,850,H179,2.0,18.0,Média,7,Média
+Condominio A,Quinta-Feira,Organico,32,Não,550,H177,1.0,11.0,Baixa,7,Baixa
+Condominio B,Quinta-Feira,Plastico,23,Sim,1200,H178,1.0,6.0,Baixa,7,Muito baixa
+Condominio C,Quinta-Feira,Papel,34,Sim,850,H179,1.0,9.0,Baixa,8,Baixa
+Condominio A,Quinta-Feira,Vidro,55,Sim,550,H177,2.0,22.0,Muito alta,8,Alta
+Condominio B,Quinta-Feira,Metal,53,Sim,1200,H178,2.0,12.0,Muito alta,7,Baixa
+Condominio C,Quinta-Feira,Outros,51,Não,850,H179,2.0,18.0,Alta,6,Alta
+Condominio A,Quinta-Feira,Organico,23,Não,550,H177,1.0,11.0,Baixa,6,Média
+Condominio B,Quinta-Feira,Plastico,48,Sim,1200,H178,2.0,12.0,Alta,7,Baixa
+Condominio C,Quinta-Feira,Papel,57,Sim,850,H179,2.0,18.0,Muito alta,8,Média
+Condominio A,Quinta-Feira,Vidro,24,Sim,550,H177,1.0,11.0,Baixa,5,Média
+Condominio B,Quinta-Feira,Metal,36,Sim,1200,H178,1.0,6.0,Média,8,Muito baixa
+Condominio C,Quinta-Feira,Outros,40,Não,850,H179,1.0,9.0,Baixa,5,Média
+Condominio A,Segunda-feira,Organico,38,Não,550,H177,1.0,11.0,Média,5,Média
+Condominio B,Segunda-feira,Plastico,53,Sim,1200,H178,2.0,12.0,Alta,7,Baixa
+Condominio C,Segunda-feira,Papel,44,Sim,850,H179,1.0,9.0,Baixa,5,Média
+Condominio A,Segunda-feira,Vidro,48,Sim,550,H177,2.0,22.0,Muito alta,6,Muito alta
+Condominio B,Segunda-feira,Metal,55,Sim,1200,H178,2.0,12.0,Muito alta,6,Média
+Condominio C,Segunda-feira,Outros,50,Não,850,H179,2.0,18.0,Alta,6,Alta
+Condominio A,Segunda-feira,Organico,34,Não,550,H177,1.0,11.0,Baixa,5,Média
+Condominio B,Segunda-feira,Plastico,23,Sim,1200,H178,1.0,6.0,Baixa,8,Muito baixa
+Condominio C,Segunda-feira,Papel,22,Sim,850,H179,1.0,9.0,Baixa,8,Baixa
+Condominio A,Segunda-feira,Vidro,48,Sim,550,H177,2.0,22.0,Alta,6,Muito alta
+Condominio B,Segunda-feira,Metal,23,Sim,1200,H178,1.0,6.0,Baixa,6,Baixa
+Condominio C,Segunda-feira,Outros,23,Não,850,H179,1.0,9.0,Baixa,8,Baixa
+Condominio A,Segunda-feira,Organico,59,Não,550,H177,2.0,22.0,Muito alta,8,Alta
+Condominio B,Segunda-feira,Plastico,37,Sim,1200,H178,1.0,6.0,Baixa,7,Muito baixa
+Condominio C,Segunda-feira,Papel,60,Sim,850,H179,2.0,18.0,Alta,8,Média
+Condominio A,Segunda-feira,Vidro,38,Sim,550,H177,1.0,11.0,Média,5,Média
+Condominio B,Segunda-feira,Metal,27,Sim,1200,H178,1.0,6.0,Baixa,5,Baixa
+Condominio C,Segunda-feira,Outros,52,Não,850,H179,2.0,18.0,Alta,6,Alta
+Condominio A,Quinta-Feira,Organico,53,Não,550,H177,2.0,22.0,Muito alta,8,Alta
+Condominio B,Quarta-feira,Plastico,43,Sim,1200,H178,1.0,6.0,Baixa,6,Baixa
+Condominio C,Quarta-feira,Papel,29,Sim,850,H179,1.0,9.0,Baixa,5,Média
+Condominio A,Terça-feira,Vidro,50,Sim,550,H177,2.0,22.0,Muito alta,8,Alta
+Condominio B,Terça-feira,Metal,31,Sim,1200,H178,1.0,6.0,Baixa,7,Muito baixa
+Condominio C,Terça-feira,Outros,41,Não,850,H179,1.0,9.0,Baixa,5,Média
+Condominio A,Terça-feira,Organico,39,Não,550,H177,1.0,11.0,Média,8,Baixa
+Condominio B,Terça-feira,Plastico,34,Sim,1200,H178,1.0,6.0,Baixa,8,Muito baixa
+Condominio C,Terça-feira,Papel,33,Sim,850,H179,1.0,9.0,Baixa,6,Baixa
+Condominio A,Terça-feira,Vidro,51,Sim,550,H177,2.0,22.0,Muito alta,5,
+Condominio B,Terça-feira,Metal,25,Sim,1200,H178,1.0,6.0,Baixa,6,Baixa
+Condominio C,Terça-feira,Outros,34,Não,850,H179,1.0,9.0,Baixa,7,Baixa
+Condominio A,Terça-feira,Organico,51,Não,550,H177,2.0,22.0,Muito alta,8,Alta
+Condominio B,Terça-feira,Plastico,60,Sim,1200,H178,2.0,12.0,Alta,7,Baixa
+Condominio C,Terça-feira,Papel,26,Sim,850,H179,1.0,9.0,Baixa,7,Baixa
+Condominio A,Terça-feira,Vidro,45,Sim,550,H177,2.0,22.0,Alta,7,Alta
+Condominio B,Terça-feira,Metal,42,Sim,1200,H178,1.0,6.0,Média,7,Muito baixa
+Condominio C,Terça-feira,Outros,56,Não,850,H179,2.0,18.0,Alta,7,Média
+Condominio A,Quinta-Feira,Organico,52,Não,550,H177,2.0,22.0,Muito alta,8,Alta
+Condominio B,Segunda-feira,Plastico,26,Sim,1200,H178,1.0,6.0,Baixa,5,Baixa
+Condominio C,Quarta-feira,Papel,37,Sim,850,H179,1.0,9.0,Baixa,8,Baixa
+Condominio A,Quarta-feira,Vidro,39,Sim,550,H177,1.0,11.0,Média,6,Média
+Condominio B,Quarta-feira,Metal,29,Sim,1200,H178,1.0,6.0,Baixa,5,Baixa
+Condominio C,Quarta-feira,Outros,37,Não,850,H179,1.0,9.0,Baixa,6,Baixa
+Condominio A,Quarta-feira,Organico,47,Não,550,H177,2.0,22.0,Alta,6,Muito alta
+Condominio B,Quarta-feira,Plastico,55,Sim,1200,H178,2.0,12.0,Alta,5,Média
+Condominio C,Quarta-feira,Papel,31,Sim,850,H179,1.0,9.0,Baixa,8,Baixa
+Condominio A,Quarta-feira,Vidro,50,Sim,550,H177,2.0,22.0,Muito alta,7,Alta
+Condominio B,Quarta-feira,Metal,39,Sim,1200,H178,1.0,6.0,Média,6,Baixa
+Condominio C,Quarta-feira,Outros,39,Não,850,H179,1.0,9.0,Baixa,7,Baixa
+Condominio A,Quarta-feira,Organico,60,Não,550,H177,2.0,22.0,Muito alta,7,Alta
+Condominio B,Quarta-feira,Plastico,55,Sim,1200,H178,2.0,12.0,Muito alta,8,Baixa
+Condominio C,Quarta-feira,Papel,37,Sim,850,H179,1.0,9.0,Baixa,6,Baixa
+Condominio A,Quarta-feira,Vidro,57,Sim,550,H177,2.0,22.0,Muito alta,6,Muito alta
+Condominio B,Quarta-feira,Metal,25,Sim,1200,H178,1.0,6.0,Baixa,7,Muito baixa
+Condominio C,Quarta-feira,Outros,27,Não,850,H179,1.0,9.0,Baixa,6,Baixa
+Condominio A,Quarta-feira,Organico,29,Não,550,H177,1.0,11.0,Baixa,6,Média
+Condominio B,Quarta-feira,Plastico,54,Sim,1200,H178,2.0,12.0,Alta,8,Baixa
+Condominio C,Quarta-feira,Papel,38,Sim,850,H179,1.0,9.0,Baixa,7,Baixa
+Condominio A,Segunda-feira,Vidro,52,Sim,550,H177,2.0,22.0,Muito alta,7,Alta
+Condominio B,Quinta-Feira,Metal,21,Sim,1200,H178,1.0,6.0,Baixa,6,Baixa
+Condominio C,Quinta-Feira,Outros,33,Não,850,H179,1.0,9.0,Baixa,8,Baixa
+Condominio A,Quinta-Feira,Organico,43,Não,550,H177,1.0,11.0,Média,5,Média
+Condominio B,Quinta-Feira,Plastico,48,Sim,1200,H178,2.0,12.0,Média,7,Baixa
+Condominio C,Quinta-Feira,Papel,29,Sim,850,H179,1.0,9.0,Baixa,7,Baixa
+Condominio A,Quinta-Feira,Vidro,43,Sim,550,H177,1.0,11.0,Média,7,Baixa
+Condominio B,Quinta-Feira,Metal,34,Sim,1200,H178,1.0,6.0,Baixa,7,Muito baixa
+Condominio C,Quinta-Feira,Outros,57,Não,850,H179,2.0,18.0,Muito alta,6,Alta
+Condominio A,Quinta-Feira,Organico,32,Não,550,H177,1.0,11.0,Baixa,7,Baixa
+Condominio B,Quinta-Feira,Plastico,43,Sim,1200,H178,1.0,6.0,Baixa,6,Baixa
+Condominio C,Quinta-Feira,Papel,37,Sim,850,H179,1.0,9.0,Baixa,7,Baixa
+Condominio A,Quinta-Feira,Vidro,33,Sim,550,H177,1.0,11.0,Baixa,6,Média
+Condominio B,Quinta-Feira,Metal,37,Sim,1200,H178,1.0,6.0,Média,6,Baixa
+Condominio C,Quinta-Feira,Outros,36,Não,850,H179,1.0,9.0,Baixa,7,Baixa
+Condominio A,Quinta-Feira,Organico,59,Não,550,H177,2.0,22.0,Muito alta,8,Alta
+Condominio B,Quinta-Feira,Plastico,21,Sim,1200,H178,1.0,6.0,Baixa,5,Baixa
+Condominio C,Quinta-Feira,Papel,35,Sim,850,H179,1.0,9.0,Baixa,6,Baixa
+Condominio A,Quinta-Feira,Vidro,49,Sim,550,H177,2.0,22.0,Alta,5,
+Condominio B,Quinta-Feira,Metal,59,Sim,1200,H178,2.0,12.0,Muito alta,7,Baixa
+Condominio C,Segunda-feira,Outros,35,Não,850,H179,1.0,9.0,Baixa,5,Média
+Condominio A,Segunda-feira,Organico,49,Não,550,H177,2.0,22.0,Alta,7,Alta
+Condominio B,Segunda-feira,Plastico,31,Sim,1200,H178,1.0,6.0,Baixa,5,Baixa
+Condominio C,Segunda-feira,Papel,26,Sim,850,H179,1.0,9.0,Baixa,6,Baixa
+Condominio A,Segunda-feira,Vidro,56,Sim,550,H177,2.0,22.0,Muito alta,6,Muito alta
+Condominio B,Segunda-feira,Metal,24,Sim,1200,H178,1.0,6.0,Baixa,5,Baixa
+Condominio C,Segunda-feira,Outros,35,Não,850,H179,1.0,9.0,Baixa,6,Baixa
+Condominio A,Segunda-feira,Organico,30,Não,550,H177,1.0,11.0,Baixa,7,Baixa
+Condominio B,Segunda-feira,Plastico,50,Sim,1200,H178,2.0,12.0,Muito alta,5,Média
+Condominio C,Quinta-Feira,Papel,44,Sim,850,H179,1.0,9.0,Baixa,6,Baixa
+Condominio A,Segunda-feira,Vidro,55,Sim,550,H177,2.0,22.0,Muito alta,5,
+Condominio B,Terça-feira,Metal,26,Sim,1200,H178,1.0,6.0,Baixa,5,Baixa
+Condominio C,Terça-feira,Outros,25,Não,850,H179,1.0,9.0,Baixa,6,Baixa
+Condominio A,Terça-feira,Organico,35,Não,550,H177,1.0,11.0,Média,5,Média
+Condominio B,Terça-feira,Plastico,25,Sim,1200,H178,1.0,6.0,Baixa,6,Baixa
+Condominio C,Terça-feira,Papel,38,Sim,850,H179,1.0,9.0,Baixa,5,Média
+Condominio A,Terça-feira,Vidro,33,Sim,550,H177,1.0,11.0,Baixa,7,Baixa
+Condominio B,Terça-feira,Metal,29,Sim,1200,H178,1.0,6.0,Baixa,8,Muito baixa
+Condominio C,Terça-feira,Outros,30,Não,850,H179,1.0,9.0,Baixa,6,Baixa
+Condominio A,Terça-feira,Organico,52,Não,550,H177,2.0,22.0,Muito alta,7,Alta
+Condominio B,Terça-feira,Plastico,46,Sim,1200,H178,2.0,12.0,Alta,5,Média
+Condominio C,Terça-feira,Papel,37,Sim,850,H179,1.0,9.0,Baixa,5,Média
+Condominio A,Terça-feira,Vidro,40,Sim,550,H177,1.0,11.0,Média,8,Baixa
+Condominio B,Quarta-feira,Metal,36,Sim,1200,H178,1.0,6.0,Média,6,Baixa
+Condominio C,Quarta-feira,Outros,45,Não,850,H179,2.0,18.0,Média,6,Alta
+Condominio A,Quarta-feira,Organico,49,Não,550,H177,2.0,22.0,Muito alta,6,Muito alta
+Condominio B,Quarta-feira,Plastico,34,Sim,1200,H178,1.0,6.0,Baixa,6,Baixa
+Condominio C,Quarta-feira,Papel,40,Sim,850,H179,1.0,9.0,Baixa,6,Baixa
+Condominio A,Quarta-feira,Vidro,39,Sim,550,H177,1.0,11.0,Média,8,Baixa
+Condominio B,Quarta-feira,Metal,29,Sim,1200,H178,1.0,6.0,Baixa,8,Muito baixa
+Condominio C,Quarta-feira,Outros,47,Não,850,H179,2.0,18.0,Média,5,Muito alta
+Condominio A,Quarta-feira,Organico,36,Não,550,H177,1.0,11.0,Média,5,Média
+Condominio B,Quarta-feira,Plastico,51,Sim,1200,H178,2.0,12.0,Alta,7,Baixa
+Condominio C,Quarta-feira,Papel,56,Sim,850,H179,2.0,18.0,Muito alta,8,Média
+Condominio A,Quarta-feira,Vidro,45,Sim,550,H177,2.0,22.0,Alta,7,Alta
+Condominio B,Quarta-feira,Metal,35,Sim,1200,H178,1.0,6.0,Média,6,Baixa
+Condominio C,Quarta-feira,Outros,46,Não,850,H179,2.0,18.0,Média,7,Média
+Condominio A,Quarta-feira,Organico,41,Não,550,H177,1.0,11.0,Média,6,Média
+Condominio B,Quarta-feira,Plastico,47,Sim,1200,H178,2.0,12.0,Média,7,Baixa
+Condominio C,Quarta-feira,Papel,59,Sim,850,H179,2.0,18.0,Muito alta,7,Média
+Condominio A,Quarta-feira,Vidro,52,Sim,550,H177,2.0,22.0,Muito alta,6,Muito alta
+Condominio B,Quarta-feira,Metal,29,Sim,1200,H178,1.0,6.0,Baixa,5,Baixa
+Condominio C,Quarta-feira,Outros,55,Não,850,H179,2.0,18.0,Alta,7,Média
+Condominio A,Quarta-feira,Organico,59,Não,550,H177,2.0,22.0,Muito alta,7,Alta
+Condominio B,Quinta-Feira,Plastico,22,Sim,1200,H178,1.0,6.0,Baixa,5,Baixa
+Condominio C,Segunda-feira,Papel,57,Sim,850,H179,2.0,18.0,Alta,7,Média
+Condominio A,Quarta-feira,Vidro,52,Sim,550,H177,2.0,22.0,Muito alta,7,Alta
+Condominio B,Quinta-Feira,Metal,52,Sim,1200,H178,2.0,12.0,Muito alta,8,Baixa
+Condominio C,Quinta-Feira,Outros,50,Não,850,H179,2.0,18.0,Muito alta,5,Muito alta
+Condominio A,Quinta-Feira,Organico,48,Não,550,H177,2.0,22.0,Muito alta,5,
+Condominio B,Quinta-Feira,Plastico,21,Sim,1200,H178,1.0,6.0,Baixa,7,Muito baixa
+Condominio C,Quinta-Feira,Papel,26,Sim,850,H179,1.0,9.0,Baixa,6,Baixa
+Condominio A,Quinta-Feira,Vidro,51,Sim,550,H177,2.0,22.0,Muito alta,7,Alta
+Condominio B,Quinta-Feira,Metal,30,Sim,1200,H178,1.0,6.0,Baixa,7,Muito baixa
+Condominio C,Quinta-Feira,Outros,31,Não,850,H179,1.0,9.0,Baixa,5,Média
+Condominio A,Quinta-Feira,Organico,44,Não,550,H177,1.0,11.0,Média,7,Baixa
+Condominio B,Quinta-Feira,Plastico,29,Sim,1200,H178,1.0,6.0,Baixa,5,Baixa
+Condominio C,Quinta-Feira,Papel,27,Sim,850,H179,1.0,9.0,Baixa,7,Baixa
+Condominio A,Quinta-Feira,Vidro,22,Sim,550,H177,1.0,11.0,Baixa,8,Baixa
+Condominio B,Quinta-Feira,Metal,25,Sim,1200,H178,1.0,6.0,Baixa,5,Baixa
+Condominio C,Quinta-Feira,Outros,53,Não,850,H179,2.0,18.0,Alta,7,Média
+Condominio A,Quinta-Feira,Organico,58,Não,550,H177,2.0,22.0,Muito alta,5,
+Condominio B,Quinta-Feira,Plastico,39,Sim,1200,H178,1.0,6.0,Baixa,5,Baixa
+Condominio C,Quinta-Feira,Papel,35,Sim,850,H179,1.0,9.0,Baixa,6,Baixa
+Condominio A,Quinta-Feira,Vidro,26,Sim,550,H177,1.0,11.0,Baixa,8,Baixa
+Condominio B,Quinta-Feira,Metal,49,Sim,1200,H178,2.0,12.0,Muito alta,8,Baixa
+Condominio C,Segunda-feira,Outros,39,Não,850,H179,1.0,9.0,Baixa,7,Baixa
+Condominio A,Segunda-feira,Organico,57,Não,550,H177,2.0,22.0,Muito alta,8,Alta
+Condominio B,Segunda-feira,Plastico,28,Sim,1200,H178,1.0,6.0,Baixa,8,Muito baixa
+Condominio C,Segunda-feira,Papel,36,Sim,850,H179,1.0,9.0,Baixa,7,Baixa
+Condominio A,Segunda-feira,Vidro,38,Sim,550,H177,1.0,11.0,Média,6,Média
+Condominio B,Segunda-feira,Metal,22,Sim,1200,H178,1.0,6.0,Baixa,7,Muito baixa
+Condominio C,Segunda-feira,Outros,58,Não,850,H179,2.0,18.0,Alta,6,Alta
+Condominio A,Segunda-feira,Organico,48,Não,550,H177,2.0,22.0,Alta,8,Alta
+Condominio B,Segunda-feira,Plastico,22,Sim,1200,H178,1.0,6.0,Baixa,8,Muito baixa
+Condominio C,Segunda-feira,Papel,39,Sim,850,H179,1.0,9.0,Baixa,8,Baixa
+Condominio A,Segunda-feira,Vidro,37,Sim,550,H177,1.0,11.0,Média,5,Média
+Condominio B,Segunda-feira,Metal,33,Sim,1200,H178,1.0,6.0,Baixa,8,Muito baixa
